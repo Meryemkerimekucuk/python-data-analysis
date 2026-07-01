@@ -30,4 +30,4 @@ Bootcamp müfredatı paralelinde bu hafta repoya eklenen ana başlıklar:
 Bootcamp sürecindeki gelişimimi, projelerimi ve veri bilimi yolculuğumu takip etmek için:
 
 * **LinkedIn:** [Meryem Kerime Küçük](https://linkedin.com/in/meryemkerime)
-* **Medium:** [GitHub Profiliniz](https://github.com/kullaniciadiniz](https://medium.com/@meryemkerimekucuk))
+* **Medium:** [Meryem Küçük](https://github.com/kullaniciadiniz](https://medium.com/@meryemkerimekucuk))
